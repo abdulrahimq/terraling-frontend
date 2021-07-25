@@ -1,0 +1,22 @@
+.examples-container {
+  width: 100%;
+  padding: 10px;
+}
+
+.examples-header {
+  width: 100%;
+  border: 1px dotted black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.2em 20em 0.2em 0.2em;
+}
+.examples-header-title {
+  margin: 0;
+  display: inline-block;
+}
+.examples-text {
+  height: 75%;
+  width: 95%;
+  padding: 0.2em 0em 0em 0.2em;
+}
